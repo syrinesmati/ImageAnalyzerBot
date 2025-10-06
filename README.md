@@ -1,6 +1,7 @@
 # AI-Doctor (Medical Chatbot Analyze Image Application)
 
 AI-Doctor is a medical chatbot designed to analyze uploaded images of skin conditions, such as acne, and provide personalized health tips and product recommendations. This application uses advanced image analysis techniques and machine learning models (Llama-3) to provide relevant and useful advice based on the visual input.
+![AI-Doctor Screenshot](/AppScreenshot.png)
 
 ## Features
 
@@ -48,4 +49,5 @@ Upload Image: A user uploads a close-up image of their face showing acne.
 Chatbot Response: The chatbot, powered by the Llama-3 model, analyzes the image and responds with advice such as maintaining a consistent skincare routine, using non-comedogenic products, and avoiding touching the face.
 
 Ask Question: The user asks, "What are the tips you can recommend for this type of acne?" The chatbot provides a customized response, including product recommendations like CeraVe Foaming Facial Cleanser and Neutrogena Salicylic Acid Face Wash.
+
 
